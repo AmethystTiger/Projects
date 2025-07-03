@@ -27,7 +27,3 @@ A clone of the classic Flappy Bird game built using **Python** and **Pygame**. F
 
 - Python 3.x  
 - Pygame  
-  Install with:
-
-  ```bash
-  pip install pygame
