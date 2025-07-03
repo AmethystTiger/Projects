@@ -27,3 +27,10 @@ These are simple scripts I made while learning the Python language. They cover t
 📂 You can find these in the `Basics/` folder.
 
 ---
+
+## 📚 What This Repo Shows
+Python learning journey from basics to full games
+
+Understanding of code structure, logic, and OOP
+
+Game development practice using Pygame
