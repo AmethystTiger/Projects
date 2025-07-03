@@ -16,10 +16,6 @@ A basic Hangman game with a simple GUI.
 A simple clone of the classic arcade game. Shoot down waves of enemies before they reach you.
 
 ### ▸ Flappy Bird  
-A clone of the famous mobile game. Tap space to make the bird flap and avoid pipes. Includes:
-- Gravity and jump physics  
-- Scrolling pipe generation  
-- Collision detection  
-- Scoring system
+A clone of the famous mobile game. Tap space to make the bird flap and avoid pipes.
 
 ---
